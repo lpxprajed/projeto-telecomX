@@ -163,4 +163,4 @@ jupyter notebook
 ## 📞 Contato
 
 - **Email**: miguellopes008@gmail.com
-- **LinkedIn**: [Seu Perfil](https://www.linkedin.com/in/miguel-lopes-ab8a97268/)
+- **LinkedIn**: [Miguel Lopes](https://www.linkedin.com/in/miguel-lopes-ab8a97268/)
